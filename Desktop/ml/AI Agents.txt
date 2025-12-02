@@ -1,0 +1,95 @@
+AI Agents
+
+->tokenize- each word to numbers 
+->embedding- words associated
+->self attention(further contex , explain to me as if i'm a 5 year old) focusing on more imp part of text
+->prediction(to construct the complete sentence) higher probability word
+->response generation - keeping relevance of embedded words
+magic [promt] formula
+
+prompting technique
+good and bad prompt
+
+AI Models LLM 
+which model to choose for which task
+chatgpt o3 paid resorning model
+brainstroming deepseek
+
+image-chatgpt(text inside image), grok(no text)
+video-sora
+summerise gmail,yt video - gemini
+socialsonic
+preplexity - articles shows sourcers
+seo/contend writting - (blog writtting)keyword research - writesonic (trending keywords)
+numerous.ai- excel as extention FOR SCLING AND DICING OF DATA
+copiolet
+claude - real time dashboard
+suno.ai - music
+notebooklm - research, upload source ,pdf to podcast 
+google ai studio - live support , talking with ai
+---->>>there is a ai for that
+
+bolt.new -> design launage - codes / preview of landing page 
+go fullpage extension -> all screenshots
+diffusion model
+
+
+
+_____
+DAY 2
+AI Generalist
+5 step
+system prompt
+
+markdown prompting
+video to text convertor - happy scribe
+voice agent- vapi paid 
+
+genspark - slides/presentation
+manus
+
+
+boltai - can use any 443 llm models, from rankings in openrouter
+ollama - use local llm for privercy 
+
+boltai working with ollama, deepseek,openrouter
+MCP connecting with tools like gmails
+apify
+claude with MCPwith apify [Instagram scrapper]
+goose - computer  flies
+midjourney, DALL-E [Diffusion Model]
+own AI cone
+fireflies - meeting notmaker
+versal - ai creative prompt for graphic designer
+
+
+/////
+interact with any software
+UI API
+software software automation
+
+api documentation developer/api/software
+make /// BESTT
+miro - visualflowcharts @@@
+
+
+platform api -  new secreat key 
+
+product hunttt
+
+
+
+///
+jaguar- image
+referencing
+docs.midjourney - image prompting
+character reference
+GENERA
+magnific upscaler - realifier ur image
+runway - video
+key frame transistion
+dream machine luma labs
+text to speech (voice over) - elevenlabs
+veo 3 Leonardo.ai
+
+
